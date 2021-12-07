@@ -1,0 +1,52 @@
+
+{
+  "events": [
+      {
+          "id": "1",
+          "name": "Sunday Soul Mate Santa X.Mas Addition",
+          "price": "3300.00",
+          "place": "Gibbs Farm, Makarau, Auckland",
+          "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxOSBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00318643-shdljgajjn-portrait.jpg",
+          "time": "Thu 4 March 9.00 Am"
+
+      },
+      {
+          "id": "2",
+          "name": "Samya Rana Live",
+          "price": "7809.00",
+          "place": "Gibbs Farm, Makarau, Auckland",
+          "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxOCBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00318272-lrrbcpejdw-portrait.jpg",
+          "time": "Fri 5 Feb 9.00 Am"
+      },
+      {
+          "id": "3",
+          "name": "TCS Ruhaniyat-Seeking The Divine ",
+          "price": "7890.00",
+          "place": "Gibbs Farm, Mumbai",
+          "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00317195-xulunrmqch-portrait.jpg",
+          "time": "Fri 6 Feb 9.00 Am"
+      },
+      {
+          "id": "4",
+          "name": "Koramangala Comedy Night",
+          "price": "8900.00",
+          "place": "Gibbs Farm, Banglore",
+          "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWMgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00313190-zujpzgzbtb-portrait.jpg",
+          "time": "sat 7 9.00 Am"
+      },
+      {
+          "id": "5",
+          "name": "Punchliners comedy Show ft Rafat Choudhary",
+          "price": "699.0",
+          "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00315164-neahuyllpn-portrait.jpg",
+          "time": "Thu 8 Dec 9.00 Am"
+      },
+      {
+          "id": "6",
+          "name": "Akash Mehata : Life Right Now ",
+          "price": "1789.00",
+          "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAyNiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00317991-akvhssayjm-portrait.jpg",
+          "time": "Thu 9 jan 9.00 Am"
+      }
+  ]
+}
